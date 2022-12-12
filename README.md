@@ -1,7 +1,5 @@
 # Welcome to my GitHub!
 
-<p align="center"><a href="https://andrewkrause.dev/"><img width="30%" alt="Visit my website!" src="./assetts/KrauseMonologoCircle.png" /></a></p>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](https://www.linkedin.com/in/dakota-kallas/)
 [![Website](https://img.shields.io/badge/Web-Dakota-informational?style=flat-square&colorB=616161&labelColor=E5646E)](https://dakotakallas.dev)
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/dakota-kallas?tab=repositories)
