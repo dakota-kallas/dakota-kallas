@@ -1,4 +1,19 @@
-# Welcome to my GitHub!
+# Dakota Kallas
+
+A driven and highly motivated software engineer with a passion for solving complex problems and creating innovative solutions. Experienced in both front-end and back-end languages with a strong focus on full-stack development. Committed to writing clean, maintainable code and constantly learning and improving my skills.
+
+## Skills
+
+- Proficient in programming languages such as Java, C#, Python, and C.
+- Experience with web development frameworks like Angular and Blazor.
+- Knowledge of database management systems like MySQL, MS SQL, and MongoDB.
+- Proficient in front-end development technologies like HTML, CSS, and JavaScript.
+- Passion for continuous learning and self-improvement.
+
+Feel free to reach out to me for any opportunities or just to connect! You can find me on [LinkedIn or other social media platform].
+
+Cheers!
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](https://www.linkedin.com/in/dakota-kallas/)
 [![Website](https://img.shields.io/badge/Web-Dakota-informational?style=flat-square&colorB=616161&labelColor=E5646E)](https://dakotakallas.dev)
