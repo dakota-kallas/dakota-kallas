@@ -10,7 +10,7 @@ A driven and highly motivated software engineer with a passion for solving compl
 - Proficient in front-end development technologies like HTML, CSS, and JavaScript.
 - Passion for continuous learning and self-improvement.
 
-Feel free to reach out to me for any opportunities or just to connect! You can find me on [LinkedIn or other social media platform].
+Feel free to reach out to me for any opportunities or just to connect! You can find me on <a href="https://www.linkedin.com/in/dakota-kallas/" target="_blank">LinkedIn</a>.
 
 Cheers!
 
