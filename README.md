@@ -5,7 +5,7 @@ A driven and highly motivated software engineer with a passion for solving compl
 ## Skills
 
 - Proficient in programming languages such as Java, C#, Python, and C.
-- Experience with web development frameworks like Angular and Blazor.
+- Experience with web development frameworks like Express, Angular, and Blazor.
 - Knowledge of database management systems like MySQL, MS SQL, and MongoDB.
 - Proficient in front-end development technologies like HTML, CSS, and JavaScript.
 - Passion for continuous learning and self-improvement.
