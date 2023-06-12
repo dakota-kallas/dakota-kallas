@@ -19,7 +19,7 @@ Cheers!
 [![Website](https://img.shields.io/badge/Web-Dakota-informational?style=flat-square&colorB=616161&labelColor=E5646E)](https://dakotakallas.dev)
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/dakota-kallas?tab=repositories)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dakota-kallas&show_icons=true&theme=react&count_private=true&hide_rank=true" alt="Dakota-Kallas Stats" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dakota-kallas&show_icons=true&theme=react&count_private=true&hide_rank=true&hide=contribs" alt="Dakota-Kallas Stats" /> 
 &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakota-kallas&show_icons=true&theme=react&count_private=true&layout=compact" alt="Dakota-Kallas Languages" />
 
