@@ -7,7 +7,7 @@ A driven and highly motivated software engineer with a passion for solving compl
 - Proficient in programming languages such as Java, C#, Python, and C.
 - Experience with web development frameworks like Express, Angular, and Blazor.
 - Knowledge of database management systems like MySQL, MS SQL, and MongoDB.
-- Proficient in front-end development technologies like HTML, CSS, and JavaScript.
+- Proficient in front-end development technologies like HTML, CSS, JavaScript, and TypeScript.
 - Passion for continuous learning and self-improvement.
 
 Feel free to reach out to me for any opportunities or just to connect! You can find me on <a href="https://www.linkedin.com/in/dakota-kallas/" target="_blank">LinkedIn</a>.
