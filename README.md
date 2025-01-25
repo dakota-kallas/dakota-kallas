@@ -5,7 +5,7 @@ A driven and highly motivated software engineer with a passion for solving compl
 ## Skills
 
 - Proficient in programming languages such as Java, C#, Python, and C.
-- Experience with web development frameworks like Express, Angular, and Blazor.
+- Experience with web development frameworks like Express, Angular, React Native, and Blazor.
 - Knowledge of database management systems like MySQL, MS SQL, and MongoDB.
 - Proficient in front-end development technologies like HTML, CSS, JavaScript, and TypeScript.
 - Passion for continuous learning and self-improvement.
@@ -15,8 +15,8 @@ Feel free to reach out to me for any opportunities or just to connect! You can f
 Cheers!
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=0072b1&colorB=616161&labelColor=black)](https://www.linkedin.com/in/dakota-kallas/)
-[![Website](https://img.shields.io/badge/Web-Dakota-informational?style=flat-square&colorB=616161&labelColor=E5646E)](https://dakotakallas.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-informational?style=flat-square&logo=readme&logoColor=0072b1&colorB=616161&labelColor=ffffff)](https://www.linkedin.com/in/dakota-kallas/)
+[![Website](https://img.shields.io/badge/Portfolio-informational?style=flat-square&colorB=616161&labelColor=E5646E&logo=devdotto)](https://dakotakallas.dev)
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/dakota-kallas?tab=repositories)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dakota-kallas&show_icons=true&theme=react&count_private=true&hide_rank=true&hide=contribs" alt="Dakota-Kallas Stats" /> 
